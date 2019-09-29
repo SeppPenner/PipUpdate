@@ -2,7 +2,7 @@
 PipUpdate is a project to update all pip dependencies for Python automatically.
 The project was written and tested in Python 3.7.4.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/v5c0tikoyxfujd33?svg=true)](https://ci.appveyor.com/project/SeppPenner/PipUpdate)
+[![Build status](https://ci.appveyor.com/api/projects/status/ea8dl3kujmr8e2f5?svg=true)](https://ci.appveyor.com/project/SeppPenner/pipupdate)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/PipUpdate.svg)](https://github.com/SeppPenner/PipUpdate/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/PipUpdate.svg)](https://github.com/SeppPenner/PipUpdate/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/PipUpdate.svg)](https://github.com/SeppPenner/PipUpdate/stargazers)
