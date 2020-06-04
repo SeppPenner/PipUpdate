@@ -1,6 +1,6 @@
 # PipUpdate
 PipUpdate is a project to update all pip dependencies for Python automatically.
-The project was written and tested in Python 3.7.4.
+The project was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/ea8dl3kujmr8e2f5?svg=true)](https://ci.appveyor.com/project/SeppPenner/pipupdate)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/PipUpdate.svg)](https://github.com/SeppPenner/PipUpdate/issues)
@@ -12,5 +12,4 @@ The project was written and tested in Python 3.7.4.
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version.
-* **Version 1.0.0.0 (2019-09-29)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/PipUpdate/blob/master/Changelog.md).
